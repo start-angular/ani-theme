@@ -1,5 +1,7 @@
 ## Ani Theme - Free AngularJS Dashboard Starter Theme
 
+### Note: This project is no longer maintained.
+
 ## [Demo](http://rawgit.com/start-angular/ani-theme/master/dist/index.html)
 
 Ani Theme is a Boilerplate for Animated AngularJS Starter Theme written with Bootstrap LESS. Powered by Gulp.
