@@ -1,4 +1,6 @@
-## Ani Theme - Free AngularJS Dashboard Starter Theme
+## NOTICE: This repo has been deprecated
+
+## [DEPRECATED] Ani Theme - Free AngularJS Dashboard Starter Theme
 
 ### Note: This project is no longer maintained.
 
